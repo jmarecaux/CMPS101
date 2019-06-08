@@ -1,0 +1,24 @@
+README
+
+Jules Marecaux
+PA5 CS101 S19
+jrmareca
+1574177
+
+------------------------------------------------------------------------
+
+README 				- this
+Makefile			- the makefile to compile FindComponents.c and GraphTest.c
+List.c 				- the list implementation
+List.h 				- header to list.c
+Graph.h				- the header to graph.c
+Graph.c 			- the graph implementation
+GraphTest.c 		- test file for Graph, has been changed a lot over the time
+					  but I have turned in the one from the website
+FindComponents.c 	- the main script that reads an input file and prints the graph
+					  and its SCC to the outfile.
+
+------------------------------------------------------------------------
+
+I had help from Saeed Kargar in debugging my DFS. Other than that I have
+put a lot of testing into this and everything is good.

@@ -1,0 +1,32 @@
+README
+
+List.java
+
+The implementation of the list, all functions here.
+
+ListClient.java
+
+The main function that tests all of the list implementation.
+
+Lex.java
+
+The main function that sorts everything and reads and writes to the input and output files.
+
+Makefile
+
+Compiler file for java. Pulled and not edited from the website.
+
+README
+
+The table of contents for the assignment.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Notes:
+
+I wrote the Lex.java file strongly based on the FILEIO.java on the website of Patrick Tantalo. I then wrote the
+sorting algorithm based on the "insertion sort" we ran through in lecture.
+
+List.java has been written by me
+ListClient has been pulled from the website and unchanged
+Makefile has been pulled and unedited from the website
